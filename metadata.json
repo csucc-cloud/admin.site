@@ -1,0 +1,5 @@
+{
+  "name": "OrgMaster: School Organization Management",
+  "description": "A secure management system for school organizations with Role-Based Access Control (RBAC) powered by Supabase.",
+  "requestFramePermissions": []
+}
